@@ -3,6 +3,24 @@
 The 3rd (FINAL) Transcendental Ruby Imbroglio Contest for rubyKaigi
 
 
+## Winners
+
+**To be announced at RubyKaigi 2018 (2rd Jun. 2018)**
+
+
+## Honorable Mentions
+
+* "Best monkey" -- Tomoya Ishida (tompng)
+* "Best abuse of lambda" -- Shinichiro Hamaji
+* "Best abuse of meta" -- Yuki Yugui Sonoda
+* "Most solvable" -- Don Yang
+* "Best layout" -- Yutaka HARA
+* "Best abuse of regexp" -- Benoit Daloze (eregon)
+* "Most tolerant" -- Shuichi Tamayose
+* "Best applause" -- Colin Fulton
+
+These entries are in the `honorable-mentions` directory.
+
 ## Goals of the TRICK
 
 * To write the most Transcendental, Imbroglio Ruby program.
@@ -34,32 +52,11 @@ These are not strict rules but hints or suggestions. You can ignore them but we'
 * To judge without bias, we will try to keep each entry anonymous during judgment. Do not include anything that reveal your identity (such as a signature, copyright, URL, etc.) in your program.
 
 
-## How to submit
-
-* Your submission must consist of the following files:
-  * `entry.rb` (program source)
-  * `remarks.markdown`
-  * `authors.markdown`
-  * `Gemfile`, `Gemfile.lock` (if you use any gem library)
-  * data files (if needed)
-* `remarks.markdown` must include the following information:
-  * Ruby implementation, version, platform that you use (it is a good idea to copy and paste the output of `ruby -v`)
-  * How to run
-* `authors.markdown` must include the following information (and the `remarks.markdown` must NOT have them):
-  * Your name (handle is ok)
-  * ccTLD of your country/region
-* Compress your entry as a zip file called `entry.zip` and send it to `trick.submit at gmail.com` as an attachment.
-  * You must include the words `TRICK 2018 submission` in the subject of your email.
-  * See [an example of `entry.zip`](entry.zip) that attached in this page.
-
-If you have any question, please send a mail to `trick-judges at googlegroups.com`.
-
-
 ## Important Dates
 
 * 1st Jan. 2018: Contest open
 * 31st Mar. 2018: Submission deadline
-* 31st May or 1st Jun. 2018: Result announcement (in RubyKaigi 2018)
+* 2st Jun. 2018: Result announcement (in RubyKaigi 2018)
 
 
 ## Judges

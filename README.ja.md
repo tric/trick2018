@@ -3,6 +3,24 @@
 The 3rd (FINAL) Transcendental Ruby Imbroglio Contest for rubyKaigi （第三回 超絶技巧 Ruby 意味不明コンテスト in RubyKaigi）
 
 
+## 入賞者
+
+**To be announced at RubyKaigi 2018 (2rd Jun. 2018)**
+
+
+## 選外佳作
+
+* "Best monkey" -- Tomoya Ishida (tompng)
+* "Best abuse of lambda" -- Shinichiro Hamaji
+* "Best abuse of meta" -- Yuki Yugui Sonoda
+* "Most solvable" -- Don Yang
+* "Best layout" -- Yutaka HARA
+* "Best abuse of regexp" -- Benoit Daloze (eregon)
+* "Most tolerant" -- Shuichi Tamayose
+* "Best applause" -- Colin Fulton
+
+これらの作品は `honorable-mentions` ディレクトリにあります。
+
 ## TRICK の理念
 
 * 現世利益のない、意味不明な Ruby プログラムを書く。
@@ -34,32 +52,11 @@ The 3rd (FINAL) Transcendental Ruby Imbroglio Contest for rubyKaigi （第三回
 * 偏見なく審査できるよう、審査の間はすべての作品を匿名として扱う。プログラムに作者がわかるようなもの（署名、コピーライト、URL など）を含めないこと。
 
 
-## 投稿方法
-
-* 投稿は以下を含むこと。
-  * `entry.rb`（プログラムソース）
-  * `remarks.markdown`
-  * `authors.markdown`
-  * `Gemfile`, `Gemfile.lock`（gem を用いる場合）
-  * データファイル（必要なら）
-* `remarks.markdown` は以下の情報を含むこと。日本語で可。
-  * 使用した Ruby 処理系およびバージョン、プラットフォーム（ruby -v の出力をコピペするとよい）
-  * 実行方法
-* `authors.markdown` は以下の情報を含むこと。これらの情報は `remarks.markdown` には含めないこと。
-  * 氏名（ハンドルネーム可、英語での表記を付けてください）
-  * あなたの国・地域の ccTLD
-* 作品を `entry.zip` という名前の zip ファイルに圧縮し、`trick.submit at gmail.com` に添付して送ること。
-  * email の件名に `TRICK 2018 submission` という文字列を含めてください。
-  * このページに添付してある[サンプルの `entry.zip`](entry.zip) を参考にしてください。
-
-If you have any question, please send a mail to `trick-judges at googlegroups.com`.
-
-
 ## 日程
 
 * 2018 年 1 月 1 日: コンテスト告知
 * 2018 年 3 月 31 日: 応募締め切り
-* 2018 年 5 月 31 日 または 6 月 1 日: 結果発表（RubyKaigi 2018にて）
+* 2018 年 6 月 2 日: 結果発表（RubyKaigi 2018にて）
 
 
 ## 審査員

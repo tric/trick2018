@@ -5,7 +5,7 @@ The 3rd (FINAL) Transcendental Ruby Imbroglio Contest for rubyKaigi （第三回
 
 ## 入賞者
 
-**To be announced at RubyKaigi 2018 (2rd Jun. 2018)**
+**To be announced at RubyKaigi 2018 (2nd Jun. 2018)**
 
 
 ## 選外佳作

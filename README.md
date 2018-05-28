@@ -5,7 +5,7 @@ The 3rd (FINAL) Transcendental Ruby Imbroglio Contest for rubyKaigi
 
 ## Winners
 
-**To be announced at RubyKaigi 2018 (2rd Jun. 2018)**
+**To be announced at RubyKaigi 2018 (2nd Jun. 2018)**
 
 
 ## Honorable Mentions
@@ -56,7 +56,7 @@ These are not strict rules but hints or suggestions. You can ignore them but we'
 
 * 1st Jan. 2018: Contest open
 * 31st Mar. 2018: Submission deadline
-* 2st Jun. 2018: Result announcement (in RubyKaigi 2018)
+* 2nd Jun. 2018: Result announcement (in RubyKaigi 2018)
 
 
 ## Judges

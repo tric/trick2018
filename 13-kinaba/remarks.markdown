@@ -30,4 +30,4 @@ scolded by MRI.
 
 The warning messages themselves should be self-descriptive on where are the
 points. If they were not clear enough, perhaps it's a signal for possible
-candidates of improvign the warning messages :).
+candidates of improving the warning messages :).

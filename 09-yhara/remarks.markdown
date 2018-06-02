@@ -1,0 +1,1 @@
+see entry.rb.

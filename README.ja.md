@@ -5,7 +5,20 @@ The 3rd (FINAL) Transcendental Ruby Imbroglio Contest for rubyKaigi （第三回
 
 ## 入賞者
 
-**To be announced at RubyKaigi 2018 (2nd Jun. 2018)**
+* 1st (Gold): "Most reserved" -- kinaba
+* 2nd (Silver): "Best spiral" -- Yusuke Endoh
+* 3rd (Bronze): "Best png viewer" -- Tomoya Ishida (tompng)
+* 4th: "Best one-liner" -- Colin Fulton
+* 5th: "Most three-dimentional" -- Tomoya Ishida (tompng)
+
+* 6th & eban award: "Most reversible" -- Yusuke Endoh
+* 7th: "Best compiler" -- Tomoya Ishida (tompng)
+* 8th & shinh & leonid award: "Most composable" -- Colin Fulton
+* 9th: "Most (un)readable" -- Yutaka HARA
+* 10th & matz award: "Best double meaning" -- Tomoya Ishida (tompng)
+* 11th & eto award: "Most attractive" -- Tomoya Ishida (tompng)
+* 12th & mame award: "Minimum alternative of irb" -- Jan Lelis
+* 13th & yhara award: "Most warned" -- kinaba
 
 
 ## 選外佳作

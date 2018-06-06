@@ -1,12 +1,12 @@
 ### Remarks
 
-Create a Ruby file that requires entry.rb with a series of test in it the run the file using ruby:
+Create a `.rb` file that requires `entry.rb` with a series of tests in it. Run the file using `ruby`:
 
 ```
 ruby name_of_test_file.rb
 ```
 
-To create a test, call 🤔 with two arguments. The first is a string describing what this tests, the second argument is the test assertion. If the assertion is truthy, the test passes. If the assertion if falsy, the test fails.
+To create a test, call 🤔 with two arguments. The first argument is a string describing what this tests, the second argument is the test assertion. If the assertion is truthy, the test passes. If the assertion if falsy, the test fails.
 
 ```
 string_1 = "Hello world!"
@@ -55,7 +55,7 @@ It has been tested with the following Ruby versions:
 
 ### Description
 
-The goal was to create a testing library where the test files looked good and the output looked good in as few characters as possible. The result is 68 characters and has one method to handle everything.
+The goal was to create a testing library where the test files looked good, the output looked good, and the library itself was written in as few characters as possible. The result is 68 characters and has one method to handle everything.
 
 ### Limitation
 

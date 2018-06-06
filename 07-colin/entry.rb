@@ -1,5 +1,5 @@
 $l||=__LINE__;eval q=%q[k =";eval q=%q";
-######## (c) 2018 (MIT License) ########
+# (c) 2018 Colin Fulton  (MIT License) #
 ;n=([1]);f=->s{[0]*(s.size/40)};$c||=-17
 $r=[*$r]+[[]]*(($l-$c)/18);$c=$l;(s="");
 ;;m=->a,b{8+4*a[b]};$r[ -1]+=f[s]+n;s=%;

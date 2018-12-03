@@ -9,7 +9,7 @@ The 3rd (FINAL) Transcendental Ruby Imbroglio Contest for rubyKaigi
 * 2nd (Silver): "Best spiral" -- Yusuke Endoh
 * 3rd (Bronze): "Best png viewer" -- Tomoya Ishida (tompng)
 * 4th: "Best one-liner" -- Colin Fulton
-* 5th: "Most three-dimentional" -- Tomoya Ishida (tompng)
+* 5th: "Most three-dimensional" -- Tomoya Ishida (tompng)
 
 * 6th & eban award: "Most reversible" -- Yusuke Endoh
 * 7th: "Best compiler" -- Tomoya Ishida (tompng)
